@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CookieDSEU
-- 👀 I’m interested in JAVA/C++/C# and high performing linux server
+- 👀 I’m interested in JAVA/C++/C#/Golang and high performing linux server
 - 🌱 I’m currently learning distributed backend micro-services
 - 📫 How to reach me: CookieD@foxmail.com
 
