@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CookieDSEU
 - 👀 I’m interested in JAVA/C++/C#/Golang and high performing linux server
-- 🌱 I’m currently learning distributed backend micro-services
+- 💪 I’m a backend architect
 - 📫 How to reach me: CookieD@foxmail.com
 
 <!---
